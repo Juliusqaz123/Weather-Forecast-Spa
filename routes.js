@@ -1,3 +1,4 @@
+// ROUTES
 weatherApp.config(function ($routeProvider) {
 
     $routeProvider
